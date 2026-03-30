@@ -1,0 +1,14 @@
+# Ignore datasets
+*.csv
+archive/
+
+# Ignore heavy AI model files
+*.safetensors
+*.bin
+*.json
+securechat_model_final/
+securechat_model_v2_final/
+
+# Ignore Python environments and cache
+.venv/
+__pycache__/
